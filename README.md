@@ -3,4 +3,4 @@ This is a Healthcare website. Made for Front End competition during WebOCode by 
 
 ![](img/doctor.png)
 
-[To see my project click on:](https://virusinlinux.github.io/Doctor19.github.io/)
+[To see my project click me](https://virusinlinux.github.io/Doctor19.github.io/)
