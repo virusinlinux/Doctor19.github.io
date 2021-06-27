@@ -10,6 +10,6 @@ for our society and country perspective.
 
 
 <!--Links to elements used-->
-Logo: self made
-Icons from https://simpleicons.org/
+Logo: self made;
+Icons from https://simpleicons.org/;
 Illustrations from: https://www.humaaans.com/ (some illustrations are self made)
